@@ -1,0 +1,753 @@
+12-08-2022 09:46:26 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 10:12:19 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.8493,"lon":145.07322}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81938,"lon":145.04301}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82913,"lon":145.05133}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.8291,"lon":145.0644}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43887,"lon":145.45145}}
+12-08-2022 10:16:12 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 10:16:15 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 10:16:16 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 10:16:16 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 10:16:17 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 10:18:48 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 10:18:57 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.84874,"lon":145.07284}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81855,"lon":145.04282}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82865,"lon":145.05374}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82914,"lon":145.064}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43903,"lon":145.45455}}
+12-08-2022 10:21:16 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]}}
+12-08-2022 10:21:34 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]}}
+12-08-2022 10:23:39 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]}}
+12-08-2022 10:23:53 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:23:54 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:23:55 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:23:56 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:23:59 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:24:02 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:24:04 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:24:34 | Calling API [get /animals] 
+Activity: Get name-{"-N669SE-MPX1qHyefRew":{"animals":[{"location":{"lat":-37.84875,"lon":145.07407},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.04411},"months":32,"name":"Muriel"},{"location":{"lat":-37.82882,"lon":145.05213},"months":32,"name":"Mildred"},{"location":{"lat":-37.82855,"lon":145.06334},"months":322,"name":"Mortimer"},{"location":{"lat":-37.43894,"lon":145.45184},"months":32,"name":"Melville"}]},"-N8XFHklYxsctfQs25t5":{"animals":[{"location":{"lat":-37.84852,"lon":145.0743},"months":14,"name":"Max"},{"location":{"lat":-37.81935,"lon":145.04227},"months":32,"name":"Muriel"},{"location":{"lat":-37.82899,"lon":145.05152},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06426},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43907,"lon":145.45129},"months":32,"name":"Melville"}]},"-N8XIt6dfFi5kWkiiyFB":{"animals":[{"location":{"lat":-37.84865,"lon":145.07256},"months":14,"name":"Max"},{"location":{"lat":-37.81866,"lon":145.04117},"months":32,"name":"Muriel"},{"location":{"lat":-37.82933,"lon":145.05106},"months":32,"name":"Mildred"},{"location":{"lat":-37.8292,"lon":145.06263},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43912,"lon":145.45419},"months":32,"name":"Melville"}]},"-N8XKTCwONDDnPLZ4iAA":{"animals":[{"location":{"lat":-37.84876,"lon":145.07245},"months":14,"name":"Max"},{"location":{"lat":-37.8192,"lon":145.0441},"months":32,"name":"Muriel"},{"location":{"lat":-37.82898,"lon":145.053},"months":32,"name":"Mildred"},{"location":{"lat":-37.8286,"lon":145.06417},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43877,"lon":145.45301},"months":32,"name":"Melville"}]},"-N8hpaF5gVjewcB4g64_":{"animals":[{"location":{"lat":-37.84852,"lon":145.07316},"months":14,"name":"Max"},{"location":{"lat":-37.81897,"lon":145.04419},"months":32,"name":"Muriel"},{"location":{"lat":-37.82904,"lon":145.05493},"months":32,"name":"Mildred"},{"location":{"lat":-37.82941,"lon":145.06198},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43929,"lon":145.45491},"months":32,"name":"Melville"}]},"-N8l9IPvOwyAXhvBWKSb":{"animals":[{"location":{"lat":-37.84895,"lon":145.07263},"months":14,"name":"Max"},{"location":{"lat":-37.81856,"lon":145.04386},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05177},"months":32,"name":"Mildred"},{"location":{"lat":-37.82908,"lon":145.06458},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43925,"lon":145.45158},"months":32,"name":"Melville"}]},"-N8l9Iq7zBJTHGEqERw7":{"animals":[{"location":{"lat":-37.84949,"lon":145.07198},"months":14,"name":"Max"},{"location":{"lat":-37.81933,"lon":145.04261},"months":32,"name":"Muriel"},{"location":{"lat":-37.8293,"lon":145.05397},"months":32,"name":"Mildred"},{"location":{"lat":-37.82925,"lon":145.06286},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45492},"months":32,"name":"Melville"}]},"-N8l9J5rtB-7669rdqqR":{"animals":[{"location":{"lat":-37.84855,"lon":145.07302},"months":14,"name":"Max"},{"location":{"lat":-37.81894,"lon":145.04336},"months":32,"name":"Muriel"},{"location":{"lat":-37.82947,"lon":145.05146},"months":32,"name":"Mildred"},{"location":{"lat":-37.82949,"lon":145.06471},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43932,"lon":145.45467},"months":32,"name":"Melville"}]},"-N8pc4BemtyoBPeZ9BpZ":{"animals":[{"location":{"lat":-37.8494,"lon":145.07255},"months":14,"name":"Max"},{"location":{"lat":-37.819,"lon":145.04499},"months":32,"name":"Muriel"},{"location":{"lat":-37.82909,"lon":145.05259},"months":32,"name":"Mildred"},{"location":{"lat":-37.82873,"lon":145.06405},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43937,"lon":145.45414},"months":32,"name":"Melville"}]},"-N8pcGicy_1lr8bFKPBs":{"Max":{"months":15},"animals":[{"location":{"lat":-37.84863,"lon":145.07332},"months":14,"name":"Max"},{"location":{"lat":-37.81937,"lon":145.0434},"months":32,"name":"Muriel"},{"location":{"lat":-37.82872,"lon":145.05135},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06254},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43926,"lon":145.45475},"months":32,"name":"Melville"}]},"-N8z_Y1lpxwmpW212sEM":{"animals":[{"location":{"lat":1,"lon":0},"months":14,"name":"Max"},{"location":{"lat":-37.81872,"lon":145.0424},"months":32,"name":"Muriel"},{"location":{"lat":-37.82925,"lon":145.05228},"months":32,"name":"Mildred"},{"location":{"lat":-37.82853,"lon":145.0614},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43865,"lon":145.45291},"months":32,"name":"Melville"}]},"-N9-hqh8w0KQsyTahuJX":{"animals":[{"location":{"lat":-37.84874,"lon":145.07284},"months":14,"name":"Max"},{"location":{"lat":-37.81855,"lon":145.04282},"months":32,"name":"Muriel"},{"location":{"lat":-37.82865,"lon":145.05374},"months":32,"name":"Mildred"},{"location":{"lat":-37.82914,"lon":145.064},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43903,"lon":145.45455},"months":32,"name":"Melville"},null,null,null,null,null,{"location":{"lat":5.0,"lon":5.0},"months":10,"name":"Test"}]},"-N9EQRJuevwHm5nlSY_a":{"animals":[{"location":{"lat":-37.84914,"lon":145.07413},"months":14,"name":"Max"},{"location":{"lat":-37.81942,"lon":145.04102},"months":32,"name":"Muriel"},{"location":{"lat":-37.82881,"lon":145.05144},"months":32,"name":"Mildred"},{"location":{"lat":-37.82888,"lon":145.06347},"months":32,"name":"Mortimer"},{"location":{"lat":-37.43913,"lon":145.45285},"months":32,"name":"Melville"}]}}
+12-08-2022 10:58:42 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EYs2FHH6670RCs_iQ"}
+12-08-2022 10:58:47 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EYsvnFSEYW2pBH0W8"}
+12-08-2022 10:58:48 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EYtKDYf20GjkSHsHR"}
+12-08-2022 10:58:54 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EYtKDYf20GjkSHsHR"}
+12-08-2022 11:30:15 | Calling API [get /animals] 
+Activity: Get name-{}
+12-08-2022 11:31:05 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EfHLzyXt2pSEqxPbV"}
+12-08-2022 11:32:15 | Calling API [get /animals] 
+Activity: Get name--N9EfYGSZrEGJJviDpqz
+12-08-2022 11:32:18 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:34:43 | Calling API [get /animals] 
+Activity: Get name--N9Eg6TjbejQpBjyy3YI
+12-08-2022 11:34:44 | Calling API [get /animals] 
+Activity: Get name--N9Eg6gLlXOBwefNKlB3
+12-08-2022 11:34:45 | Calling API [get /animals] 
+Activity: Get name--N9Eg6s0AKlqNDMQPsEa
+12-08-2022 11:34:46 | Calling API [get /animals] 
+Activity: Get name--N9Eg71RYREz_03qM_8c
+12-08-2022 11:34:46 | Calling API [get /animals] 
+Activity: Get name--N9Eg7AeLtJ-A8XZ968Z
+12-08-2022 11:34:47 | Calling API [get /animals] 
+Activity: Get name--N9Eg7LSni1ITTZ2UuPp
+12-08-2022 11:34:48 | Calling API [get /animals] 
+Activity: Get name--N9Eg7UdYLMIOXssTfhC
+12-08-2022 11:34:48 | Calling API [get /animals] 
+Activity: Get name--N9Eg7ePtquAlrMI2erh
+12-08-2022 11:45:45 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 11:45:45 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:45:45 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:46:34 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:46:34 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:46:35 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 11:51:18 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:51:18 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 11:51:18 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:01:19 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:01:20 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 12:01:20 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 12:02:16 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 12:02:16 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:02:17 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EmQGCkuJEZth7Yfif"}
+12-08-2022 12:02:46 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EmXLZrOlVxE5KHOLy"}
+12-08-2022 12:02:47 | Calling API [get /animals] 
+Activity: Get name--N9EmXLZrOlVxE5KHOLy
+12-08-2022 12:02:47 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:03:25 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EmfyXk_ACRLp5cD6I"}
+12-08-2022 12:03:26 | Calling API [get /animals] 
+Activity: Get name--N9EmfyXk_ACRLp5cD6I
+12-08-2022 12:03:26 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:09:42 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9Eo6sJJsF5fZU9X9Qc"}
+12-08-2022 12:09:43 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:09:43 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9Eo74UHPHwBOaVI59t"}
+12-08-2022 12:10:03 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 12:10:03 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:10:04 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EoCBwDQ1FqQIf-3sE"}
+12-08-2022 12:10:58 | Calling API [get /animals] 
+Activity: Get name--N9-hqh8w0KQsyTahuJX
+12-08-2022 12:11:00 | Calling API [get /animals] 
+Activity: Get name-{"name":"-N9EoQ3G5Wog3lL3xNFU"}
+12-08-2022 12:11:04 | Calling API [get /animals] 
+Activity: Get name--N9EoQ3G5Wog3lL3xNFU
+12-08-2022 12:11:14 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.8489,"lon":145.07397}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81888,"lon":145.04171}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82874,"lon":145.05293}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82862,"lon":145.06163}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.439,"lon":145.4523}}
+12-08-2022 12:27:48 | Calling API [get /name] 
+Activity: Get name--N9EsEUF92Oxzg3Zz1HV
+12-08-2022 12:27:50 | Calling API [get /name] 
+Activity: Get name--N9EsEUF92Oxzg3Zz1HV
+12-08-2022 12:34:39 | Calling API [get /animals] 
+Activity: Get name-{"animals":[{"months":14,"name":"Max","location":{"lon":145.07431,"lat":-37.845231}},{"months":32,"name":"Muriel","location":{"lon":145.042261,"lat":-37.81461}},{"months":32,"name":"Mildred","location":{"lon":145.055601,"lat":-37.823841}},{"months":32,"name":"Mortimer","location":{"lon":145.065351,"lat":-37.825501}},{"months":32,"name":"Melville","location":{"lon":145.453811,"lat":-37.431851}}]}
+12-08-2022 12:36:07 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.072181,"lat":-37.843641}},{"months":32,"name":"Muriel","location":{"lon":145.047941,"lat":-37.813301}},{"months":32,"name":"Mildred","location":{"lon":145.052831,"lat":-37.826731}},{"months":32,"name":"Mortimer","location":{"lon":145.064351,"lat":-37.827481}},{"months":32,"name":"Melville","location":{"lon":145.458641,"lat":-37.435711}}]
+12-08-2022 12:51:14 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 12:51:15 | Calling API [get /name] 
+Activity: Get name--N9ExbqZvmNKtHvaO91l
+12-08-2022 12:51:15 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9ExcOHwANdyF2c9L6Y"}
+12-08-2022 12:56:49 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.076001,"lat":-37.845461}},{"months":32,"name":"Muriel","location":{"lon":145.04771,"lat":-37.814771}},{"months":32,"name":"Mildred","location":{"lon":145.057481,"lat":-37.82941}},{"months":32,"name":"Mortimer","location":{"lon":145.063631,"lat":-37.822041}},{"months":32,"name":"Melville","location":{"lon":145.455851,"lat":-37.435271}}]
+12-08-2022 12:57:01 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.84852,"lon":145.07125}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81932,"lon":145.0437}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82896,"lon":145.05138}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82919,"lon":145.06309}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43852,"lon":145.4512}}
+12-08-2022 12:57:05 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.84856,"lon":145.07152}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81897,"lon":145.0448}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82869,"lon":145.0545}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82948,"lon":145.06323}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43866,"lon":145.45161}}
+12-08-2022 12:57:11 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07152,"lat":-37.84856}},{"months":32,"name":"Muriel","location":{"lon":145.0448,"lat":-37.81897}},{"months":32,"name":"Mildred","location":{"lon":145.0545,"lat":-37.82869}},{"months":32,"name":"Mortimer","location":{"lon":145.06323,"lat":-37.82948}},{"months":32,"name":"Melville","location":{"lon":145.45161,"lat":-37.43866}}]
+12-08-2022 13:54:51 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 13:54:52 | Calling API [get /name] 
+Activity: Get name--N9FBAkLA36ii75RsvbQ
+12-08-2022 13:54:52 | Calling API [get /animals] 
+Activity: Get name-[{"months":10,"name":"Test","location":{"lon":5,"lat":5}},{"months":32,"name":"Muriel","location":{"lon":145.04361,"lat":-37.815541}},{"months":32,"name":"Mildred","location":{"lon":145.053171,"lat":-37.82991}},{"months":32,"name":"Mortimer","location":{"lon":145.062991,"lat":-37.823361}},{"months":32,"name":"Melville","location":{"lon":145.457791,"lat":-37.435951}}]
+12-08-2022 13:54:52 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9FBBL2dckS7aEnVTaP"}
+12-08-2022 13:56:14 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07861,"lat":-37.843091}},{"months":32,"name":"Muriel","location":{"lon":145.041791,"lat":-37.816621}},{"months":32,"name":"Mildred","location":{"lon":145.054561,"lat":-37.827401}},{"months":32,"name":"Mortimer","location":{"lon":145.068731,"lat":-37.821901}},{"months":32,"name":"Melville","location":{"lon":145.455671,"lat":-37.437251}}]
+12-08-2022 13:56:14 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 13:56:15 | Calling API [get /name] 
+Activity: Get name--N9FBUs5miYWITgcVCaj
+12-08-2022 13:56:15 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9FBVUwI-6DPlQVc9Tf"}
+12-08-2022 14:11:54 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 14:11:54 | Calling API [get /name] 
+Activity: Get name--N9FF4EsyhdMhyGltkec
+12-08-2022 14:11:54 | Calling API [get /animals] 
+Activity: Get name-[{"months":10,"name":"Test","location":{"lon":5,"lat":5}},{"months":32,"name":"Muriel","location":{"lon":145.042271,"lat":-37.81491}},{"months":32,"name":"Mildred","location":{"lon":145.054831,"lat":-37.825591}},{"months":32,"name":"Mortimer","location":{"lon":145.062191,"lat":-37.826041}},{"months":32,"name":"Melville","location":{"lon":145.457331,"lat":-37.437961}}]
+12-08-2022 14:11:54 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9FF4rMbH5VYaYXvDou"}
+12-08-2022 14:17:12 | Calling API [put /animals] 
+12-08-2022 14:17:18 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.073411,"lat":-37.847491}},{"months":32,"name":"Muriel","location":{"lon":145.048171,"lat":-37.813901}},{"months":32,"name":"Mildred","location":{"lon":145.057941,"lat":-37.824931}},{"months":32,"name":"Mortimer","location":{"lon":145.06481,"lat":-37.823071}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.437501}}]
+12-08-2022 14:17:29 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.073411,"lat":-37.847491}},{"months":32,"name":"Muriel","location":{"lon":145.048171,"lat":-37.813901}},{"months":32,"name":"Mildred","location":{"lon":145.057941,"lat":-37.824931}},{"months":32,"name":"Mortimer","location":{"lon":145.06481,"lat":-37.823071}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.437501}}]
+12-08-2022 14:17:43 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":18,"location":{"lat":-37.84856,"lon":145.07265}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81905,"lon":145.04304}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82913,"lon":145.0537}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82912,"lon":145.06236}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43878,"lon":145.45167}}
+12-08-2022 14:17:48 | Calling API [get /animals] 
+Activity: Get name-[{"months":18,"name":"Max","location":{"lon":145.07265,"lat":-37.84856}},{"months":32,"name":"Muriel","location":{"lon":145.04304,"lat":-37.81905}},{"months":32,"name":"Mildred","location":{"lon":145.0537,"lat":-37.82913}},{"months":32,"name":"Mortimer","location":{"lon":145.06236,"lat":-37.82912}},{"months":32,"name":"Melville","location":{"lon":145.45167,"lat":-37.43878}}]
+12-08-2022 14:17:59 | Calling API [put /animals] 
+12-08-2022 14:18:01 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07621,"lat":-37.841621}},{"months":32,"name":"Muriel","location":{"lon":145.044301,"lat":-37.812821}},{"months":32,"name":"Mildred","location":{"lon":145.055841,"lat":-37.822021}},{"months":32,"name":"Mortimer","location":{"lon":145.067401,"lat":-37.828101}},{"months":32,"name":"Melville","location":{"lon":145.452911,"lat":-37.431431}}]
+12-08-2022 14:19:25 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 14:19:25 | Calling API [put /animals] 
+12-08-2022 14:19:26 | Calling API [get /name] 
+Activity: Get name--N9FGnSCiJRtWX1sPgvS
+12-08-2022 14:19:26 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.078951,"lat":-37.842801}},{"months":32,"name":"Muriel","location":{"lon":145.041081,"lat":-37.815231}},{"months":32,"name":"Mildred","location":{"lon":145.054301,"lat":-37.822701}},{"months":32,"name":"Mortimer","location":{"lon":145.063151,"lat":-37.821981}},{"months":32,"name":"Melville","location":{"lon":145.452801,"lat":-37.43401}}]
+12-08-2022 14:19:26 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9FGo6JK4dtm2S1OHdg"}
+12-08-2022 14:20:03 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 14:20:03 | Calling API [put /animals] 
+12-08-2022 14:20:03 | Calling API [get /name] 
+Activity: Get name--N9FGwgaqYck5DxUzuHg
+12-08-2022 14:20:03 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.072631,"lat":-37.847881}},{"months":32,"name":"Muriel","location":{"lon":145.048531,"lat":-37.815331}},{"months":32,"name":"Mildred","location":{"lon":145.054711,"lat":-37.822021}},{"months":32,"name":"Mortimer","location":{"lon":145.06571,"lat":-37.827151}},{"months":32,"name":"Melville","location":{"lon":145.451951,"lat":-37.432371}}]
+12-08-2022 14:20:03 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9FGxLDrczSwcuynL4t"}
+12-08-2022 14:20:26 | Calling API [get /name] 
+Activity: Get name--N9FGzXj2tWpDBB75_x5
+12-08-2022 14:20:28 | Calling API [post /name] 
+Activity: Create name-{"name":"-N9FH2M87KVgspyO-MLx"}
+12-08-2022 14:20:30 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 14:20:32 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074761,"lat":-37.841361}},{"months":32,"name":"Muriel","location":{"lon":145.04131,"lat":-37.812941}},{"months":32,"name":"Mildred","location":{"lon":145.056781,"lat":-37.827561}},{"months":32,"name":"Mortimer","location":{"lon":145.061511,"lat":-37.823161}},{"months":32,"name":"Melville","location":{"lon":145.456881,"lat":-37.43351}}]
+12-08-2022 14:20:37 | Calling API [put /animals] 
+12-08-2022 14:20:38 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07361,"lat":-37.8421}},{"months":32,"name":"Muriel","location":{"lon":145.044451,"lat":-37.818431}},{"months":32,"name":"Mildred","location":{"lon":145.052571,"lat":-37.823061}},{"months":32,"name":"Mortimer","location":{"lon":145.06891,"lat":-37.823951}},{"months":32,"name":"Melville","location":{"lon":145.453671,"lat":-37.437571}}]
+12-08-2022 14:20:42 | Calling API [post /animals] 
+Activity: Update-{"name":"Maxaaa","months":18,"location":{"lat":-37.84853,"lon":145.07161}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81891,"lon":145.04237}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82942,"lon":145.05191}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82896,"lon":145.06331}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43867,"lon":145.45314}}
+12-08-2022 14:20:45 | Calling API [get /animals] 
+Activity: Get name-[{"months":18,"name":"Maxaaa","location":{"lon":145.07161,"lat":-37.84853}},{"months":32,"name":"Muriel","location":{"lon":145.04237,"lat":-37.81891}},{"months":32,"name":"Mildred","location":{"lon":145.05191,"lat":-37.82942}},{"months":32,"name":"Mortimer","location":{"lon":145.06331,"lat":-37.82896}},{"months":32,"name":"Melville","location":{"lon":145.45314,"lat":-37.43867}}]
+12-08-2022 14:20:49 | Calling API [put /animals] 
+12-08-2022 14:20:51 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.073611,"lat":-37.845121}},{"months":32,"name":"Muriel","location":{"lon":145.042611,"lat":-37.818571}},{"months":32,"name":"Mildred","location":{"lon":145.05911,"lat":-37.826341}},{"months":32,"name":"Mortimer","location":{"lon":145.06801,"lat":-37.822721}},{"months":32,"name":"Melville","location":{"lon":145.454111,"lat":-37.436351}}]
+12-08-2022 15:56:26 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 15:56:27 | Calling API [get /name] 
+Activity: Get name--N9Fc-ZfvSRzBYmrbSgy
+12-08-2022 15:56:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":10,"name":"Test","location":{"lon":5,"lat":5}},{"months":32,"name":"Muriel","location":{"lon":145.043531,"lat":-37.81501}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.825771}},{"months":32,"name":"Mortimer","location":{"lon":145.063911,"lat":-37.825791}},{"months":32,"name":"Melville","location":{"lon":145.457531,"lat":-37.438471}}]
+12-08-2022 16:02:39 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9FdRFS0MtH_t4hwybh"}
+12-08-2022 16:02:40 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07291,"lat":-37.844841}},{"months":32,"name":"Muriel","location":{"lon":145.045491,"lat":-37.816921}},{"months":32,"name":"Mildred","location":{"lon":145.051061,"lat":-37.826011}},{"months":32,"name":"Mortimer","location":{"lon":145.067531,"lat":-37.822901}},{"months":32,"name":"Melville","location":{"lon":145.457451,"lat":-37.434251}}]
+12-08-2022 16:02:40 | Calling API [get /name] 
+Activity: Get name--N9FdRFS0MtH_t4hwybh
+12-08-2022 16:02:40 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 16:02:59 | Calling API [get /resetAnimals] 
+12-08-2022 16:02:59 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9FdW-FUiWDSFjMIcs2"}
+12-08-2022 16:02:59 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.073881,"lat":-37.843671}},{"months":32,"name":"Muriel","location":{"lon":145.048621,"lat":-37.814711}},{"months":32,"name":"Mildred","location":{"lon":145.053461,"lat":-37.826581}},{"months":32,"name":"Mortimer","location":{"lon":145.06201,"lat":-37.825761}},{"months":32,"name":"Melville","location":{"lon":145.456241,"lat":-37.434501}}]
+12-08-2022 16:02:59 | Calling API [get /name] 
+Activity: Get name--N9FdW-FUiWDSFjMIcs2
+12-08-2022 16:02:59 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
+12-08-2022 16:10:32 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.073611,"lat":-37.845121}},{"months":32,"name":"Muriel","location":{"lon":145.042611,"lat":-37.818571}},{"months":32,"name":"Mildred","location":{"lon":145.05911,"lat":-37.826341}},{"months":32,"name":"Mortimer","location":{"lon":145.06801,"lat":-37.822721}},{"months":32,"name":"Melville","location":{"lon":145.454111,"lat":-37.436351}}]
+12-08-2022 16:34:02 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:35:41 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:35:45 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:36:57 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:37:29 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:37:41 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:38:07 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:38:09 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 16:38:17 | Calling API [get /name] 
+Activity: Get name--N9FH2M87KVgspyO-MLx
+12-08-2022 19:37:56 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:44:08 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:44:22 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:44:32 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:44:37 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:44:40 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:45:15 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:46:56 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:46:59 | Calling API [get /name] 
+Activity: Get name--N9GPe61bZ7b_JGtMZV4
+12-08-2022 19:48:32 | Calling API [get /name] 
+Activity: Get name--N9GS6AEXDX1nBqhgfVs
+12-08-2022 19:52:24 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 19:52:36 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.072111,"lat":-37.845261}},{"months":32,"name":"Muriel","location":{"lon":145.044831,"lat":-37.813541}},{"months":32,"name":"Mildred","location":{"lon":145.053521,"lat":-37.822591}},{"months":32,"name":"Mortimer","location":{"lon":145.062931,"lat":-37.82951}},{"months":32,"name":"Melville","location":{"lon":145.455851,"lat":-37.432891}}]
+12-08-2022 19:52:48 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 19:58:39 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:02:38 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:02:42 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:02:43 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:02:48 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:02:56 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:03:21 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:03:37 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:04:00 | Calling API [get /name] 
+Activity: Get name--N9GSprSGK0vezZLiv6p
+12-08-2022 20:07:07 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:12:29 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:12:32 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:15:42 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:15:48 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:16:00 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:48:23 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:48:51 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:51:47 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:53:22 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:57:01 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:57:09 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:57:11 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:57:47 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:58:30 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:58:37 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:59:41 | Calling API [get /name] 
+Activity: Get name--N9GWN-o6HpLtEvkSm1M
+12-08-2022 20:59:43 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9GhQmUgOeR9QGYRSDR"}
+12-08-2022 21:04:52 | Calling API [get /name] 
+Activity: Get name--N9GhQmUgOeR9QGYRSDR
+12-08-2022 21:04:55 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9GibswDUahcZNBVgkw"}
+12-08-2022 21:05:20 | Calling API [get /name] 
+Activity: Get name--N9GibswDUahcZNBVgkw
+12-08-2022 21:05:22 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9GiiM-aveAtTQXlEKf"}
+12-08-2022 21:05:25 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9Gij08pp-rqtDk3Vss"}
+12-08-2022 21:05:29 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9Gik0w_lcf4zc0Tx5I"}
+12-08-2022 21:06:55 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9Gj4E19nzA2eUrD_T0"}
+12-08-2022 21:06:56 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9Gj4NiFQVjrsViPW2Z"}
+12-08-2022 21:07:19 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:07:22 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:07:50 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:08:13 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:09:32 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:09:39 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:10:36 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:10:55 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:11:40 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:12:30 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:12:53 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:13:25 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:13:48 | Calling API [get /name] 
+Activity: Get name--N9Gj4NiFQVjrsViPW2Z
+12-08-2022 21:13:55 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9GkfjOStkwLyAzM1W1"}
+12-08-2022 21:14:46 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:14:54 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:15:26 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:15:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:15:40 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:15:41 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:24:11 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:36:22 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:36:32 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:37:33 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:37:34 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:37:47 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:37:49 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:37:54 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:38:07 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:38:12 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:38:23 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:38:24 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:38:59 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:39:00 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:39:28 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:40:25 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:40:29 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077821,"lat":-37.845401}},{"months":32,"name":"Muriel","location":{"lon":145.048101,"lat":-37.817111}},{"months":32,"name":"Mildred","location":{"lon":145.054041,"lat":-37.822381}},{"months":32,"name":"Mortimer","location":{"lon":145.061861,"lat":-37.821811}},{"months":32,"name":"Melville","location":{"lon":145.458391,"lat":-37.432581}}]
+12-08-2022 21:44:25 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:47:42 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:47:50 | Calling API [get /resetAnimals] 
+12-08-2022 21:47:53 | Calling API [get /resetAnimals] 
+12-08-2022 21:47:55 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.076221,"lat":-37.84281}},{"months":32,"name":"Muriel","location":{"lon":145.042691,"lat":-37.812601}},{"months":32,"name":"Mildred","location":{"lon":145.055291,"lat":-37.827041}},{"months":32,"name":"Mortimer","location":{"lon":145.062721,"lat":-37.828421}},{"months":32,"name":"Melville","location":{"lon":145.452811,"lat":-37.43471}}]
+12-08-2022 21:47:59 | Calling API [get /resetAnimals] 
+12-08-2022 21:48:00 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.072331,"lat":-37.844001}},{"months":32,"name":"Muriel","location":{"lon":145.042591,"lat":-37.811891}},{"months":32,"name":"Mildred","location":{"lon":145.053731,"lat":-37.826391}},{"months":32,"name":"Mortimer","location":{"lon":145.067501,"lat":-37.826871}},{"months":32,"name":"Melville","location":{"lon":145.453661,"lat":-37.432761}}]
+12-08-2022 21:48:03 | Calling API [get /resetAnimals] 
+12-08-2022 21:48:10 | Calling API [get /resetAnimals] 
+12-08-2022 21:48:10 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075481,"lat":-37.846641}},{"months":32,"name":"Muriel","location":{"lon":145.042611,"lat":-37.818901}},{"months":32,"name":"Mildred","location":{"lon":145.055751,"lat":-37.827001}},{"months":32,"name":"Mortimer","location":{"lon":145.066991,"lat":-37.824321}},{"months":32,"name":"Melville","location":{"lon":145.45241,"lat":-37.435141}}]
+12-08-2022 21:48:11 | Calling API [get /resetAnimals] 
+12-08-2022 21:48:12 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075341,"lat":-37.844041}},{"months":32,"name":"Muriel","location":{"lon":145.043821,"lat":-37.817931}},{"months":32,"name":"Mildred","location":{"lon":145.052971,"lat":-37.826861}},{"months":32,"name":"Mortimer","location":{"lon":145.061581,"lat":-37.822861}},{"months":32,"name":"Melville","location":{"lon":145.455091,"lat":-37.434091}}]
+12-08-2022 21:48:12 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075341,"lat":-37.844041}},{"months":32,"name":"Muriel","location":{"lon":145.043821,"lat":-37.817931}},{"months":32,"name":"Mildred","location":{"lon":145.052971,"lat":-37.826861}},{"months":32,"name":"Mortimer","location":{"lon":145.061581,"lat":-37.822861}},{"months":32,"name":"Melville","location":{"lon":145.455091,"lat":-37.434091}}]
+12-08-2022 21:48:13 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075341,"lat":-37.844041}},{"months":32,"name":"Muriel","location":{"lon":145.043821,"lat":-37.817931}},{"months":32,"name":"Mildred","location":{"lon":145.052971,"lat":-37.826861}},{"months":32,"name":"Mortimer","location":{"lon":145.061581,"lat":-37.822861}},{"months":32,"name":"Melville","location":{"lon":145.455091,"lat":-37.434091}}]
+12-08-2022 21:48:13 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075341,"lat":-37.844041}},{"months":32,"name":"Muriel","location":{"lon":145.043821,"lat":-37.817931}},{"months":32,"name":"Mildred","location":{"lon":145.052971,"lat":-37.826861}},{"months":32,"name":"Mortimer","location":{"lon":145.061581,"lat":-37.822861}},{"months":32,"name":"Melville","location":{"lon":145.455091,"lat":-37.434091}}]
+12-08-2022 21:48:13 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075341,"lat":-37.844041}},{"months":32,"name":"Muriel","location":{"lon":145.043821,"lat":-37.817931}},{"months":32,"name":"Mildred","location":{"lon":145.052971,"lat":-37.826861}},{"months":32,"name":"Mortimer","location":{"lon":145.061581,"lat":-37.822861}},{"months":32,"name":"Melville","location":{"lon":145.455091,"lat":-37.434091}}]
+12-08-2022 21:48:14 | Calling API [get /resetAnimals] 
+12-08-2022 21:50:40 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:50:44 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.072021,"lat":-37.844591}},{"months":32,"name":"Muriel","location":{"lon":145.048771,"lat":-37.813511}},{"months":32,"name":"Mildred","location":{"lon":145.054591,"lat":-37.825191}},{"months":32,"name":"Mortimer","location":{"lon":145.065241,"lat":-37.827451}},{"months":32,"name":"Melville","location":{"lon":145.452411,"lat":-37.437001}}]
+12-08-2022 21:50:45 | Calling API [get /resetAnimals] 
+12-08-2022 21:50:54 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.078191,"lat":-37.841591}},{"months":32,"name":"Muriel","location":{"lon":145.041691,"lat":-37.818691}},{"months":32,"name":"Mildred","location":{"lon":145.057431,"lat":-37.824221}},{"months":32,"name":"Mortimer","location":{"lon":145.063521,"lat":-37.823631}},{"months":32,"name":"Melville","location":{"lon":145.453601,"lat":-37.434161}}]
+12-08-2022 21:51:34 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:51:37 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:52:07 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+12-08-2022 21:52:29 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+13-08-2022 07:57:12 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.84877,"lon":145.07377}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81948,"lon":145.04228}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82901,"lon":145.05436}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82851,"lon":145.06407}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43905,"lon":145.45223}}
+13-08-2022 08:12:41 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+13-08-2022 08:13:07 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+13-08-2022 08:13:43 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+13-08-2022 08:13:49 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07377,"lat":-37.84877}},{"months":32,"name":"Muriel","location":{"lon":145.04228,"lat":-37.81948}},{"months":32,"name":"Mildred","location":{"lon":145.05436,"lat":-37.82901}},{"months":32,"name":"Mortimer","location":{"lon":145.06407,"lat":-37.82851}},{"months":32,"name":"Melville","location":{"lon":145.45223,"lat":-37.43905}}]
+13-08-2022 08:13:50 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07377,"lat":-37.84877}},{"months":32,"name":"Muriel","location":{"lon":145.04228,"lat":-37.81948}},{"months":32,"name":"Mildred","location":{"lon":145.05436,"lat":-37.82901}},{"months":32,"name":"Mortimer","location":{"lon":145.06407,"lat":-37.82851}},{"months":32,"name":"Melville","location":{"lon":145.45223,"lat":-37.43905}}]
+13-08-2022 08:13:53 | Calling API [get /resetAnimals] 
+13-08-2022 08:13:54 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071591,"lat":-37.847661}},{"months":32,"name":"Muriel","location":{"lon":145.043641,"lat":-37.815771}},{"months":32,"name":"Mildred","location":{"lon":145.053051,"lat":-37.825531}},{"months":32,"name":"Mortimer","location":{"lon":145.068261,"lat":-37.822771}},{"months":32,"name":"Melville","location":{"lon":145.457261,"lat":-37.436281}}]
+13-08-2022 08:13:55 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071591,"lat":-37.847661}},{"months":32,"name":"Muriel","location":{"lon":145.043641,"lat":-37.815771}},{"months":32,"name":"Mildred","location":{"lon":145.053051,"lat":-37.825531}},{"months":32,"name":"Mortimer","location":{"lon":145.068261,"lat":-37.822771}},{"months":32,"name":"Melville","location":{"lon":145.457261,"lat":-37.436281}}]
+13-08-2022 08:14:38 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+13-08-2022 08:14:39 | Calling API [get /name] 
+Activity: Get name--N9GkfjOStkwLyAzM1W1
+13-08-2022 08:15:06 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9J70GNW8xQAdA2oEMG"}
+13-08-2022 08:15:23 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:15:39 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:15:41 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.076461,"lat":-37.841451}},{"months":32,"name":"Muriel","location":{"lon":145.045271,"lat":-37.817401}},{"months":32,"name":"Mildred","location":{"lon":145.051741,"lat":-37.824301}},{"months":32,"name":"Mortimer","location":{"lon":145.064431,"lat":-37.827331}},{"months":32,"name":"Melville","location":{"lon":145.455091,"lat":-37.436561}}]
+13-08-2022 08:15:43 | Calling API [get /resetAnimals] 
+13-08-2022 08:15:46 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071191,"lat":-37.843171}},{"months":32,"name":"Muriel","location":{"lon":145.047221,"lat":-37.812571}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.826021}},{"months":32,"name":"Mortimer","location":{"lon":145.068851,"lat":-37.827121}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.431531}}]
+13-08-2022 08:16:28 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:16:29 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071191,"lat":-37.843171}},{"months":32,"name":"Muriel","location":{"lon":145.047221,"lat":-37.812571}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.826021}},{"months":32,"name":"Mortimer","location":{"lon":145.068851,"lat":-37.827121}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.431531}}]
+13-08-2022 08:16:31 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071191,"lat":-37.843171}},{"months":32,"name":"Muriel","location":{"lon":145.047221,"lat":-37.812571}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.826021}},{"months":32,"name":"Mortimer","location":{"lon":145.068851,"lat":-37.827121}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.431531}}]
+13-08-2022 08:17:12 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071191,"lat":-37.843171}},{"months":32,"name":"Muriel","location":{"lon":145.047221,"lat":-37.812571}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.826021}},{"months":32,"name":"Mortimer","location":{"lon":145.068851,"lat":-37.827121}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.431531}}]
+13-08-2022 08:18:12 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:18:14 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071191,"lat":-37.843171}},{"months":32,"name":"Muriel","location":{"lon":145.047221,"lat":-37.812571}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.826021}},{"months":32,"name":"Mortimer","location":{"lon":145.068851,"lat":-37.827121}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.431531}}]
+13-08-2022 08:18:58 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:19:01 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071191,"lat":-37.843171}},{"months":32,"name":"Muriel","location":{"lon":145.047221,"lat":-37.812571}},{"months":32,"name":"Mildred","location":{"lon":145.055021,"lat":-37.826021}},{"months":32,"name":"Mortimer","location":{"lon":145.068851,"lat":-37.827121}},{"months":32,"name":"Melville","location":{"lon":145.454231,"lat":-37.431531}}]
+13-08-2022 08:19:02 | Calling API [get /resetAnimals] 
+13-08-2022 08:19:03 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:19:04 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:19:12 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:19:13 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:19:27 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:19:28 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:19:54 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:20:23 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:20:24 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:20:51 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:20:52 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:21:29 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:21:31 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:21:32 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:23:07 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:23:13 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:23:17 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:23:19 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:25:38 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:25:40 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:25:41 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:26:10 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:26:19 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:26:19 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:26:59 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071621,"lat":-37.844351}},{"months":32,"name":"Muriel","location":{"lon":145.045091,"lat":-37.817921}},{"months":32,"name":"Mildred","location":{"lon":145.05371,"lat":-37.823451}},{"months":32,"name":"Mortimer","location":{"lon":145.061101,"lat":-37.821941}},{"months":32,"name":"Melville","location":{"lon":145.453721,"lat":-37.431251}}]
+13-08-2022 08:27:02 | Calling API [get /resetAnimals] 
+13-08-2022 08:27:04 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077891,"lat":-37.847741}},{"months":32,"name":"Muriel","location":{"lon":145.044831,"lat":-37.812541}},{"months":32,"name":"Mildred","location":{"lon":145.051651,"lat":-37.827381}},{"months":32,"name":"Mortimer","location":{"lon":145.066591,"lat":-37.825991}},{"months":32,"name":"Melville","location":{"lon":145.455731,"lat":-37.438211}}]
+13-08-2022 08:27:15 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:27:19 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077891,"lat":-37.847741}},{"months":32,"name":"Muriel","location":{"lon":145.044831,"lat":-37.812541}},{"months":32,"name":"Mildred","location":{"lon":145.051651,"lat":-37.827381}},{"months":32,"name":"Mortimer","location":{"lon":145.066591,"lat":-37.825991}},{"months":32,"name":"Melville","location":{"lon":145.455731,"lat":-37.438211}}]
+13-08-2022 08:27:46 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:29:19 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:29:26 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077891,"lat":-37.847741}},{"months":32,"name":"Muriel","location":{"lon":145.044831,"lat":-37.812541}},{"months":32,"name":"Mildred","location":{"lon":145.051651,"lat":-37.827381}},{"months":32,"name":"Mortimer","location":{"lon":145.066591,"lat":-37.825991}},{"months":32,"name":"Melville","location":{"lon":145.455731,"lat":-37.438211}}]
+13-08-2022 08:29:29 | Calling API [get /resetAnimals] 
+13-08-2022 08:29:30 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:29:51 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:29:53 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:29:57 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:29:58 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:04 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:04 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:05 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:05 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:05 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:06 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:08 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:08 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:09 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074631,"lat":-37.845671}},{"months":32,"name":"Muriel","location":{"lon":145.041101,"lat":-37.817161}},{"months":32,"name":"Mildred","location":{"lon":145.051011,"lat":-37.824321}},{"months":32,"name":"Mortimer","location":{"lon":145.067081,"lat":-37.828561}},{"months":32,"name":"Melville","location":{"lon":145.45741,"lat":-37.434071}}]
+13-08-2022 08:30:09 | Calling API [get /resetAnimals] 
+13-08-2022 08:30:11 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:26 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:26 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:27 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:28 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:28 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:28 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:30:29 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:31:28 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:31:31 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:31:46 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:31:52 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:33:16 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:33:29 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:33:34 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:33:35 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:33:37 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:34:35 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:34:38 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.074871,"lat":-37.842211}},{"months":32,"name":"Muriel","location":{"lon":145.04841,"lat":-37.816721}},{"months":32,"name":"Mildred","location":{"lon":145.051601,"lat":-37.822611}},{"months":32,"name":"Mortimer","location":{"lon":145.064751,"lat":-37.827721}},{"months":32,"name":"Melville","location":{"lon":145.457641,"lat":-37.433401}}]
+13-08-2022 08:34:41 | Calling API [get /resetAnimals] 
+13-08-2022 08:35:07 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:35:11 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.0701,"lat":-37.842281}},{"months":32,"name":"Muriel","location":{"lon":145.0401,"lat":-37.817591}},{"months":32,"name":"Mildred","location":{"lon":145.054271,"lat":-37.827061}},{"months":32,"name":"Mortimer","location":{"lon":145.061711,"lat":-37.826111}},{"months":32,"name":"Melville","location":{"lon":145.451171,"lat":-37.43791}}]
+13-08-2022 08:36:05 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.0701,"lat":-37.842281}},{"months":32,"name":"Muriel","location":{"lon":145.0401,"lat":-37.817591}},{"months":32,"name":"Mildred","location":{"lon":145.054271,"lat":-37.827061}},{"months":32,"name":"Mortimer","location":{"lon":145.061711,"lat":-37.826111}},{"months":32,"name":"Melville","location":{"lon":145.451171,"lat":-37.43791}}]
+13-08-2022 08:36:09 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.0701,"lat":-37.842281}},{"months":32,"name":"Muriel","location":{"lon":145.0401,"lat":-37.817591}},{"months":32,"name":"Mildred","location":{"lon":145.054271,"lat":-37.827061}},{"months":32,"name":"Mortimer","location":{"lon":145.061711,"lat":-37.826111}},{"months":32,"name":"Melville","location":{"lon":145.451171,"lat":-37.43791}}]
+13-08-2022 08:36:17 | Calling API [get /resetAnimals] 
+13-08-2022 08:36:19 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075521,"lat":-37.843231}},{"months":32,"name":"Muriel","location":{"lon":145.045281,"lat":-37.813521}},{"months":32,"name":"Mildred","location":{"lon":145.056541,"lat":-37.823491}},{"months":32,"name":"Mortimer","location":{"lon":145.066881,"lat":-37.828911}},{"months":32,"name":"Melville","location":{"lon":145.451131,"lat":-37.437301}}]
+13-08-2022 08:36:24 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075521,"lat":-37.843231}},{"months":32,"name":"Muriel","location":{"lon":145.045281,"lat":-37.813521}},{"months":32,"name":"Mildred","location":{"lon":145.056541,"lat":-37.823491}},{"months":32,"name":"Mortimer","location":{"lon":145.066881,"lat":-37.828911}},{"months":32,"name":"Melville","location":{"lon":145.451131,"lat":-37.437301}}]
+13-08-2022 08:36:25 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075521,"lat":-37.843231}},{"months":32,"name":"Muriel","location":{"lon":145.045281,"lat":-37.813521}},{"months":32,"name":"Mildred","location":{"lon":145.056541,"lat":-37.823491}},{"months":32,"name":"Mortimer","location":{"lon":145.066881,"lat":-37.828911}},{"months":32,"name":"Melville","location":{"lon":145.451131,"lat":-37.437301}}]
+13-08-2022 08:36:56 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:36:59 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075521,"lat":-37.843231}},{"months":32,"name":"Muriel","location":{"lon":145.045281,"lat":-37.813521}},{"months":32,"name":"Mildred","location":{"lon":145.056541,"lat":-37.823491}},{"months":32,"name":"Mortimer","location":{"lon":145.066881,"lat":-37.828911}},{"months":32,"name":"Melville","location":{"lon":145.451131,"lat":-37.437301}}]
+13-08-2022 08:37:02 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075521,"lat":-37.843231}},{"months":32,"name":"Muriel","location":{"lon":145.045281,"lat":-37.813521}},{"months":32,"name":"Mildred","location":{"lon":145.056541,"lat":-37.823491}},{"months":32,"name":"Mortimer","location":{"lon":145.066881,"lat":-37.828911}},{"months":32,"name":"Melville","location":{"lon":145.451131,"lat":-37.437301}}]
+13-08-2022 08:37:04 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.075521,"lat":-37.843231}},{"months":32,"name":"Muriel","location":{"lon":145.045281,"lat":-37.813521}},{"months":32,"name":"Mildred","location":{"lon":145.056541,"lat":-37.823491}},{"months":32,"name":"Mortimer","location":{"lon":145.066881,"lat":-37.828911}},{"months":32,"name":"Melville","location":{"lon":145.451131,"lat":-37.437301}}]
+13-08-2022 08:37:08 | Calling API [get /resetAnimals] 
+13-08-2022 08:37:46 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07251,"lat":-37.842731}},{"months":32,"name":"Muriel","location":{"lon":145.048431,"lat":-37.814171}},{"months":32,"name":"Mildred","location":{"lon":145.057781,"lat":-37.82521}},{"months":32,"name":"Mortimer","location":{"lon":145.065741,"lat":-37.828421}},{"months":32,"name":"Melville","location":{"lon":145.452481,"lat":-37.433431}}]
+13-08-2022 08:40:09 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:43:21 | Calling API [get /name] 
+Activity: Get name--N9J70GNW8xQAdA2oEMG
+13-08-2022 08:43:45 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.07251,"lat":-37.842731}},{"months":32,"name":"Muriel","location":{"lon":145.048431,"lat":-37.814171}},{"months":32,"name":"Mildred","location":{"lon":145.057781,"lat":-37.82521}},{"months":32,"name":"Mortimer","location":{"lon":145.065741,"lat":-37.828421}},{"months":32,"name":"Melville","location":{"lon":145.452481,"lat":-37.433431}}]
+13-08-2022 08:44:40 | Calling API [post /animals] 
+Activity: Update-{"name":"Max","months":14,"location":{"lat":-37.84881,"lon":145.07479}}
+Activity: Update-{"name":"Muriel","months":32,"location":{"lat":-37.81943,"lon":145.0425}}
+Activity: Update-{"name":"Mildred","months":32,"location":{"lat":-37.82917,"lon":145.05459}}
+Activity: Update-{"name":"Mortimer","months":32,"location":{"lat":-37.82856,"lon":145.06306}}
+Activity: Update-{"name":"Melville","months":32,"location":{"lat":-37.43922,"lon":145.45316}}
+13-08-2022 09:20:05 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.077731,"lat":-37.846551}},{"months":32,"name":"Muriel","location":{"lon":145.0421,"lat":-37.811571}},{"months":32,"name":"Mildred","location":{"lon":145.057951,"lat":-37.824631}},{"months":32,"name":"Mortimer","location":{"lon":145.063211,"lat":-37.825311}},{"months":32,"name":"Melville","location":{"lon":145.452191,"lat":-37.433131}}]
+13-08-2022 09:24:55 | Calling API [get /newName] 
+Activity: Create name-{"name":"-N9JMzvAB_R0CJIxMzOl"}
+13-08-2022 09:24:55 | Calling API [get /animals] 
+Activity: Get name-[{"months":14,"name":"Max","location":{"lon":145.071661,"lat":-37.848871}},{"months":32,"name":"Muriel","location":{"lon":145.04461,"lat":-37.811561}},{"months":32,"name":"Mildred","location":{"lon":145.054351,"lat":-37.823871}},{"months":32,"name":"Mortimer","location":{"lon":145.065051,"lat":-37.826421}},{"months":32,"name":"Melville","location":{"lon":145.458301,"lat":-37.433881}}]
+13-08-2022 09:24:56 | Calling API [get /name] 
+Activity: Get name--N9JMzvAB_R0CJIxMzOl
+13-08-2022 09:24:56 | Calling API [get /resetAnimals] 
+13-08-2022 09:24:56 | Calling API [post /animals] 
+Activity: Update-{"name":"Test","months":10,"location":{"lat":5.0,"lon":5.0}}
